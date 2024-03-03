@@ -8,7 +8,7 @@ import SearchIcon from '.././Search.svg'
 const API_URL =  'http://www.omdbapi.com/?apikey=9f27771b'
 
 
-//     "Title": "Italian Spiderman",
+
 //     "Year": "2007",
 //     "imdbID": "tt2705436",
 //     "Type": "movie",

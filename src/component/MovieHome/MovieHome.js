@@ -10,8 +10,7 @@ const API_URL =  'http://www.omdbapi.com/?apikey=9f27771b'
 
 
 
- "https://m.media-amazon.com/images/M/MV5BZWQxMjcwNjItZjI0ZC00ZTc4LWIwMzItM2Q0YTZhNzI3NzdlXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
-// }
+ 
 
 const MovieHome = () => {
 

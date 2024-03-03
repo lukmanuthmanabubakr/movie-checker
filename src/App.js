@@ -1,6 +1,5 @@
 import React from 'react'
-import MovieHome from './component/MovieHome/MovieHome'
-// import MovieCard from './component/MovieCard/MovieCard'
+import MovieHome from './component/MovieHome/MovieHome';
 
 const App = () => {
   return (

@@ -8,8 +8,6 @@ import SearchIcon from '.././Search.svg'
 const API_URL =  'http://www.omdbapi.com/?apikey=9f27771b'
 
 
-
-
  
 
 const MovieHome = () => {
